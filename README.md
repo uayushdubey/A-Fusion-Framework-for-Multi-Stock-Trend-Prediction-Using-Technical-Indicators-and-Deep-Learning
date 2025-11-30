@@ -1,0 +1,2 @@
+# A-Fusion-Framework-for-Multi-Stock-Trend-Prediction-Using-Technical-Indicators-and-Deep-Learning
+A deep learning–based fusion framework that integrates multi-source technical indicators with sequence modeling to predict stock trends across multiple tickers. It uses advanced feature engineering, sliding-window time-series processing, and LSTM architectures to generate reliable UP/DOWN/NEUTRAL trend and price forecasts.
