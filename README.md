@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/uayushdubey/A-Fusion-Framework-for-Multi-Stock-Trend-Prediction-Using-Technical-Indicators-and-Deep-Learning)
 
 A comprehensive deep learning framework that integrates multi-source technical indicators with LSTM sequence modeling to predict stock market trends across multiple tickers. This system leverages 40+ technical indicators, sliding-window time-series processing, and advanced neural architectures to generate reliable UP/DOWN/NEUTRAL trend classifications and future price forecasts.
